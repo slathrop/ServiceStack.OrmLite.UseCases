@@ -1,0 +1,8 @@
+ServiceStack.OrmLite.UseCases
+=============================
+(1) ConsoleApp OrmLiteExample. This example is based on Robert Curlette's blog entry here: http://www.curlette.com/?p=1068, but with
+the addition of a simple Repository layer.
+
+
+...more OrmLite Use Cases will be added as time allows.
+
